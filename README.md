@@ -29,4 +29,4 @@ This project is designed to showcase a modern educational institution website wi
 ## ⚙️ Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/university-website.git
+    https://github.com/agurlaramesh1999-collab/Biggest-University-Website-.git
